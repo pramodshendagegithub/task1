@@ -80,4 +80,3 @@
 
 15. **git rm** : Command used to delete the file from working directory and stages the deletion.
 
-    ![](images/git_delete.PNG)
